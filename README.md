@@ -1,1 +1,2 @@
 # Depression-Activities
+This Project is about taking readings of different subjects at different activities and on the basis of that measure the depression level of subjects. Activities like Sitting, Walking, Standing , Eating and Jogging are measured with the help of Bangle JS. Bangle JS is programmable watch. Espurino IDE is used to program the watch. Then Different Machine Learning models are applied to check whether which model suits best and then test the data on this model. 
